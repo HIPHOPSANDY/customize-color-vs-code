@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.border": "#000000",
+        "tab.activeBackground": "#000000",
+        "tab.unfocusedActiveBorder": "#fff0",
+        "sideBar.background": "#111010",
+        "editor.background": "#111010",
+        "editorGroupHeader.tabsBackground": "#0c0b0b",
+        "editorCursor.foreground": "#ffffff",
+        "contrastActiveBorder": "#e2e200",
+        "editorLineNumber.activeForeground": "#FF0000"
+    }
+}
